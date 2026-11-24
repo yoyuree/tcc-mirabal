@@ -10,6 +10,7 @@
       <router-link to="/contato">Contato</router-link>
     </nav>
 
+    <img src="../public/imagens/logo/logo-mirabal-removebg-preview.png" alt="">
   </header>
   <footer></footer>
 
